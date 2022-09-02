@@ -30,10 +30,6 @@ namespace _1008_Salary
 
             Console.WriteLine("SALARY = U$ " + salary.ToString("f2"));
 
- 
-
-            Console.ReadKey();
-
         }
 
     }
